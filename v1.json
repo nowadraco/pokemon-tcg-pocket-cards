@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "a1-001",
+    "name": "Bulbasaur",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-002",
+    "name": "Ivysaur",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-003",
+    "name": "Venusaur",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-004",
+    "name": "Venusaur ex",
+    "rarity": "Rare EX",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 190,
+    "stage": "Stage 2",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-005",
+    "name": "Caterpie",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Grass",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-006",
+    "name": "Metapod",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-007",
+    "name": "Butterfree",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Grass",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-008",
+    "name": "Weedle",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-009",
+    "name": "Kakuna",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-010",
+    "name": "Beedrill",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-011",
+    "name": "Oddish",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-012",
+    "name": "Gloom",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-013",
+    "name": "Vileplume",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-014",
+    "name": "Paras",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Grass",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-015",
+    "name": "Parasect",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Grass",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-016",
+    "name": "Venonat",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-017",
+    "name": "Venomoth",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-018",
+    "name": "Bellsprout",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-019",
+    "name": "Weepinbell",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-020",
+    "name": "Victreebel",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-021",
+    "name": "Exeggcute",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-022",
+    "name": "Exeggutor",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-023",
+    "name": "Exeggutor ex",
+    "rarity": "Rare EX",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 160,
+    "stage": "Stage 1",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-024",
+    "name": "Tangela",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-025",
+    "name": "Scyther",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-026",
+    "name": "Pinsir",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Grass",
+    "health": 90,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-027",
+    "name": "Cottonee",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Grass",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-028",
+    "name": "Whimsicott",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-029",
+    "name": "Petilil",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Grass",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-030",
+    "name": "Lilligant",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Grass",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-031",
+    "name": "Skiddo",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-032",
+    "name": "Gogoat",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-033",
+    "name": "Charmander",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-034",
+    "name": "Charmeleon",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-035",
+    "name": "Charizard",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-036",
+    "name": "Charizard ex",
+    "rarity": "Rare EX",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-037",
+    "name": "Vulpix",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-038",
+    "name": "Ninetales",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-039",
+    "name": "Growlithe",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Fire",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-040",
+    "name": "Arcanine",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Fire",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-041",
+    "name": "Arcanine ex",
+    "rarity": "Rare EX",
+    "pack": "Pikachu",
+    "type": "Fire",
+    "health": 150,
+    "stage": "Stage 1",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-042",
+    "name": "Ponyta",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-043",
+    "name": "Rapidash",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-044",
+    "name": "Magmar",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-045",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-046",
+    "name": "Moltres",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-047",
+    "name": "Moltres ex",
+    "rarity": "Rare EX",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-048",
+    "name": "Heatmor",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-049",
+    "name": "Salandit",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Fire",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-050",
+    "name": "Salazzle",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Fire",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-051",
+    "name": "Sizzlipede",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-052",
+    "name": "Centiskorch",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-053",
+    "name": "Squirtle",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-054",
+    "name": "Wartortle",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-055",
+    "name": "Blastoise",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-056",
+    "name": "Blastoise ex",
+    "rarity": "Rare EX",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-057",
+    "name": "Psyduck",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-058",
+    "name": "Golduck",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-059",
+    "name": "Poliwag",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-060",
+    "name": "Poliwhirl",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-061",
+    "name": "Poliwrath",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-062",
+    "name": "Tentacool",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-063",
+    "name": "Tentacruel",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 110,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-064",
+    "name": "Seel",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-065",
+    "name": "Dewgong",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-066",
+    "name": "Shellder",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-067",
+    "name": "Cloyster",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-068",
+    "name": "Krabby",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-069",
+    "name": "Kingler",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-070",
+    "name": "Horsea",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-071",
+    "name": "Seadra",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 70,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-072",
+    "name": "Goldeen",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-073",
+    "name": "Seaking",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-074",
+    "name": "Staryu",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-075",
+    "name": "Starmie",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-076",
+    "name": "Starmie ex",
+    "rarity": "Rare EX",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-077",
+    "name": "Magikarp",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 30,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-078",
+    "name": "Gyarados",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 150,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-079",
+    "name": "Lapras",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-080",
+    "name": "Vaporeon",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-081",
+    "name": "Omanyte",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-082",
+    "name": "Omastar",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-083",
+    "name": "Articuno",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-084",
+    "name": "Articuno ex",
+    "rarity": "Rare EX",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-085",
+    "name": "Ducklett",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-086",
+    "name": "Swanna",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-087",
+    "name": "Froakie",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-088",
+    "name": "Frogadier",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-089",
+    "name": "Greninja",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-090",
+    "name": "Pyukumuku",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-091",
+    "name": "Bruxish",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Water",
+    "health": 90,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-092",
+    "name": "Snom",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Water",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-093",
+    "name": "Frosmoth",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Water",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-094",
+    "name": "Pikachu",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-095",
+    "name": "Raichu",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-096",
+    "name": "Pikachu ex",
+    "rarity": "Rare EX",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-097",
+    "name": "Magnemite",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-098",
+    "name": "Magneton",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-099",
+    "name": "Voltorb",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-100",
+    "name": "Electrode",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-101",
+    "name": "Electabuzz",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-102",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-103",
+    "name": "Zapdos",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-104",
+    "name": "Zapdos ex",
+    "rarity": "Rare EX",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 130,
+    "stage": "Basic",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-105",
+    "name": "Blitzle",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-106",
+    "name": "Zebstrika",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-107",
+    "name": "Tynamo",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Lightning",
+    "health": 30,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-108",
+    "name": "Eelektrik",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Lightning",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-109",
+    "name": "Eelektross",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Lightning",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-110",
+    "name": "Helioptile",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-111",
+    "name": "Heliolisk",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-112",
+    "name": "Pincurchin",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-113",
+    "name": "Clefairy",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-114",
+    "name": "Clefable",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Psychic",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-115",
+    "name": "Abra",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-116",
+    "name": "Kadabra",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Psychic",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-117",
+    "name": "Alakazam",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Psychic",
+    "health": 130,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-118",
+    "name": "Slowpoke",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-119",
+    "name": "Slowbro",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-120",
+    "name": "Gastly",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-121",
+    "name": "Haunter",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-122",
+    "name": "Gengar",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 130,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-123",
+    "name": "Gengar ex",
+    "rarity": "Rare EX",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 170,
+    "stage": "Stage 2",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-124",
+    "name": "Drowzee",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Psychic",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-125",
+    "name": "Hypno",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Psychic",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-126",
+    "name": "Mr. Mime",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-127",
+    "name": "Jynx",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-128",
+    "name": "Mewtwo",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-129",
+    "name": "Mewtwo ex",
+    "rarity": "Rare EX",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-130",
+    "name": "Ralts",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-131",
+    "name": "Kirlia",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-132",
+    "name": "Gardevoir",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 110,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-133",
+    "name": "Woobat",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-134",
+    "name": "Swoobat",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 60,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-135",
+    "name": "Golett",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 90,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-136",
+    "name": "Golurk",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-137",
+    "name": "Sandshrew",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Fighting",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-138",
+    "name": "Sandslash",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Fighting",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-139",
+    "name": "Diglett",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-140",
+    "name": "Dugtrio",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 70,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-141",
+    "name": "Mankey",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-142",
+    "name": "Primeape",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-143",
+    "name": "Machop",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-144",
+    "name": "Machoke",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-145",
+    "name": "Machamp",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-146",
+    "name": "Machamp ex",
+    "rarity": "Rare EX",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-147",
+    "name": "Geodude",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-148",
+    "name": "Graveler",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-149",
+    "name": "Golem",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-150",
+    "name": "Onix",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 110,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-151",
+    "name": "Cubone",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-152",
+    "name": "Marowak",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-153",
+    "name": "Marowak ex",
+    "rarity": "Rare EX",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-154",
+    "name": "Hitmonlee",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-155",
+    "name": "Hitmonchan",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-156",
+    "name": "Rhyhorn",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-157",
+    "name": "Rhydon",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-158",
+    "name": "Kabuto",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-159",
+    "name": "Kabutops",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-160",
+    "name": "Mienfoo",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-161",
+    "name": "Mienshao",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-162",
+    "name": "Clobbopus",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Fighting",
+    "health": 80,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-163",
+    "name": "Grapploct",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Fighting",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-164",
+    "name": "Ekans",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Darkness",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-165",
+    "name": "Arbok",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Darkness",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-166",
+    "name": "Nidoran F",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-167",
+    "name": "Nidorina",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-168",
+    "name": "Nidoqueen",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-169",
+    "name": "Nidoran M",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-170",
+    "name": "Nidorino",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-171",
+    "name": "Nidoking",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-172",
+    "name": "Zubat",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-173",
+    "name": "Golbat",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 40,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-174",
+    "name": "Grimer",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-175",
+    "name": "Muk",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-176",
+    "name": "Koffing",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-177",
+    "name": "Weezing",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 110,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-178",
+    "name": "Mawile",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Metal",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-179",
+    "name": "Pawniard",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Metal",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-180",
+    "name": "Bisharp",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Metal",
+    "health": 70,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-181",
+    "name": "Meltan",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Metal",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-182",
+    "name": "Melmetal",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Metal",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-183",
+    "name": "Dratini",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Dragon",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-184",
+    "name": "Dragonair",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Dragon",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-185",
+    "name": "Dragonite",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Dragon",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-186",
+    "name": "Pidgey",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-187",
+    "name": "Pidgeotto",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-188",
+    "name": "Pidgeot",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 130,
+    "stage": "Stage 2",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-189",
+    "name": "Rattata",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 40,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-190",
+    "name": "Raticate",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-191",
+    "name": "Spearow",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-192",
+    "name": "Fearow",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-193",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-194",
+    "name": "Wigglytuff",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-195",
+    "name": "Wigglytuff ex",
+    "rarity": "Rare EX",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 500
+  },
+  {
+    "id": "a1-196",
+    "name": "Meowth",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-197",
+    "name": "Persian",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-198",
+    "name": "arfetch'd",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-199",
+    "name": "Doduo",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-200",
+    "name": "Dodrio",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-201",
+    "name": "Lickitung",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 90,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-202",
+    "name": "Chansey",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-203",
+    "name": "Kangaskhan",
+    "rarity": "Rare",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-204",
+    "name": "Tauros",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-205",
+    "name": "Ditto",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-206",
+    "name": "Eevee",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-207",
+    "name": "Eevee",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-208",
+    "name": "Eevee",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-209",
+    "name": "Porygon",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-210",
+    "name": "Aerodactyl",
+    "rarity": "Rare",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-211",
+    "name": "Snorlax",
+    "rarity": "Rare",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 150
+  },
+  {
+    "id": "a1-212",
+    "name": "Minccino",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-213",
+    "name": "Cinccino",
+    "rarity": "Uncommon",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 90,
+    "stage": "Stage 1",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-214",
+    "name": "Wooloo",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-215",
+    "name": "Dubwool",
+    "rarity": "Common",
+    "pack": "Any",
+    "type": "Colorless",
+    "health": 120,
+    "stage": "Stage 1",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-216",
+    "name": "Helix Fossil",
+    "rarity": "Common",
+    "pack": "Pikachu",
+    "type": "Item",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-217",
+    "name": "Dome Fossil",
+    "rarity": "Common",
+    "pack": "Charizard",
+    "type": "Item",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-218",
+    "name": "Old Amber",
+    "rarity": "Common",
+    "pack": "Mewtwo",
+    "type": "Item",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 35
+  },
+  {
+    "id": "a1-219",
+    "name": "Erika",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-220",
+    "name": "Misty",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-221",
+    "name": "Blaine",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-222",
+    "name": "Koga",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-223",
+    "name": "Giovanni",
+    "rarity": "Uncommon",
+    "pack": "Mewtwo",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-224",
+    "name": "Brock",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-225",
+    "name": "Sabrina",
+    "rarity": "Uncommon",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-226",
+    "name": "Lt. Surge",
+    "rarity": "Uncommon",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 70
+  },
+  {
+    "id": "a1-227",
+    "name": "Bulbasaur",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-228",
+    "name": "Gloom",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-229",
+    "name": "Pinsir",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 90,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-230",
+    "name": "Charmander",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-231",
+    "name": "Rapidash",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 100,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-232",
+    "name": "Squirtle",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-233",
+    "name": "Gyarados",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 150,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-234",
+    "name": "Lapras",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 100,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-235",
+    "name": "Electrode",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 80,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-236",
+    "name": "Alakazam",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Psychic",
+    "health": 130,
+    "stage": "Stage 2",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-237",
+    "name": "Slowpoke",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Psychic",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-238",
+    "name": "Diglett",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Fighting",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-239",
+    "name": "Cubone",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-240",
+    "name": "Nidoqueen",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 140,
+    "stage": "Stage 2",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-241",
+    "name": "Nidoking",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Darkness",
+    "health": 150,
+    "stage": "Stage 2",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-242",
+    "name": "Golbat",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 40,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-243",
+    "name": "Weezing",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Darkness",
+    "health": 110,
+    "stage": "Stage 1",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-244",
+    "name": "Dragonite",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Dragon",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-245",
+    "name": "Pidgeot",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 130,
+    "stage": "Stage 2",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-246",
+    "name": "Meowth",
+    "rarity": "Full Art",
+    "pack": "Charizard",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-247",
+    "name": "Ditto",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 70,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-248",
+    "name": "Eevee",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-249",
+    "name": "Porygon",
+    "rarity": "Full Art",
+    "pack": "Mewtwo",
+    "type": "Colorless",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-250",
+    "name": "Snorlax",
+    "rarity": "Full Art",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 400
+  },
+  {
+    "id": "a1-251",
+    "name": "Venusaur ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Grass",
+    "health": 190,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-252",
+    "name": "Exeggutor ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Grass",
+    "health": 160,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-253",
+    "name": "Charizard ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-254",
+    "name": "Arcanine ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Fire",
+    "health": 150,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-255",
+    "name": "Moltres ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-256",
+    "name": "Blastoise ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Water",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-257",
+    "name": "Starmie ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Water",
+    "health": 130,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-258",
+    "name": "Articuno ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-259",
+    "name": "Pikachu ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-260",
+    "name": "Zapdos ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 130,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-261",
+    "name": "Gengar ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 170,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-262",
+    "name": "Mewtwo ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-263",
+    "name": "Machamp ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-264",
+    "name": "Marowak ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Fighting",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-265",
+    "name": "Wigglytuff ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-266",
+    "name": "Erika",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-267",
+    "name": "Misty",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-268",
+    "name": "Blaine",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-269",
+    "name": "Koga",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-270",
+    "name": "Giovanni",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-271",
+    "name": "Brock",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-272",
+    "name": "Sabrina",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-273",
+    "name": "Lt. Surge",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Supporter",
+    "health": null,
+    "stage": "N/A",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-274",
+    "name": "Moltres ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-275",
+    "name": "Articuno ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Water",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-276",
+    "name": "Zapdos ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 130,
+    "stage": "Basic",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-277",
+    "name": "Gengar ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 170,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-278",
+    "name": "Machamp ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Charizard",
+    "type": "Fighting",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-279",
+    "name": "Wigglytuff ex",
+    "rarity": "Full Art EX/Support",
+    "pack": "Pikachu",
+    "type": "Colorless",
+    "health": 140,
+    "stage": "Stage 1",
+    "craftingCost": 1250
+  },
+  {
+    "id": "a1-280",
+    "name": "Charizard ex",
+    "rarity": "Immersive",
+    "pack": "Charizard",
+    "type": "Fire",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 1500
+  },
+  {
+    "id": "a1-281",
+    "name": "Pikachu ex",
+    "rarity": "Immersive",
+    "pack": "Pikachu",
+    "type": "Lightning",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 1500
+  },
+  {
+    "id": "a1-282",
+    "name": "Mewtwo ex",
+    "rarity": "Immersive",
+    "pack": "Mewtwo",
+    "type": "Psychic",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 1500
+  },
+  {
+    "id": "a1-284",
+    "name": "Charizard ex",
+    "rarity": "Gold Crown",
+    "pack": "Any",
+    "type": "Fire",
+    "health": 180,
+    "stage": "Stage 2",
+    "craftingCost": 2500
+  },
+  {
+    "id": "a1-285",
+    "name": "Pikachu ex",
+    "rarity": "Gold Crown",
+    "pack": "Any",
+    "type": "Lightning",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": 2500
+  },
+  {
+    "id": "a1-286",
+    "name": "Mewtwo ex",
+    "rarity": "Gold Crown",
+    "pack": "Any",
+    "type": "Psychic",
+    "health": 150,
+    "stage": "Basic",
+    "craftingCost": 2500
+  }
+]
