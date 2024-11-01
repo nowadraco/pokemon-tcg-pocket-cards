@@ -3199,5 +3199,16 @@
     "stage": null,
     "craftingCost": null,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-006.png"
+  },
+  {
+    "id": "pa-007",
+    "name": "Professor's Research",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Supporter",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-007.png"
   }
 ]
