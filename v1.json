@@ -3133,5 +3133,71 @@
     "stage": "Basic",
     "craftingCost": 2500,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-286.png"
+  },
+  {
+    "id": "pa-001",
+    "name": "Potion",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-001.png"
+  },
+  {
+    "id": "pa-002",
+    "name": "X Speed",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-002.png"
+  },
+  {
+    "id": "pa-003",
+    "name": "Hand Scope",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-003.png"
+  },
+  {
+    "id": "pa-004",
+    "name": "Pokedex",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-004.png"
+  },
+  {
+    "id": "pa-005",
+    "name": "Poke Ball",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-005.png"
+  },
+  {
+    "id": "pa-006",
+    "name": "Red Card",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-006.png"
   }
 ]
