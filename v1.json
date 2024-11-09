@@ -2168,7 +2168,7 @@
   },
   {
     "id": "a1-198",
-    "name": "arfetch'd",
+    "name": "Farfetch'd",
     "rarity": "Common",
     "pack": "Any",
     "type": "Colorless",
@@ -3110,7 +3110,7 @@
     "health": 180,
     "stage": "Stage 2",
     "craftingCost": 2500,
-    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-284.png"
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-283.png"
   },
   {
     "id": "a1-285",
@@ -3121,7 +3121,7 @@
     "health": 120,
     "stage": "Basic",
     "craftingCost": 2500,
-    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-285.png"
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-284.png"
   },
   {
     "id": "a1-286",
@@ -3132,7 +3132,7 @@
     "health": 150,
     "stage": "Basic",
     "craftingCost": 2500,
-    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-286.png"
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1-285.png"
   },
   {
     "id": "pa-001",
