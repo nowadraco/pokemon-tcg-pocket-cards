@@ -3210,5 +3210,16 @@
     "stage": null,
     "craftingCost": null,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-007.png"
+  },
+  {
+    "id": "pa-014",
+    "name": "Lapras ex",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-014.png"
   }
 ]
