@@ -3221,5 +3221,16 @@
     "stage": "Basic",
     "craftingCost": null,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-014.png"
+  },
+  {
+    "id": "pa-017",
+    "name": "Mankey",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-017.png"
   }
 ]
